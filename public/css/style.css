@@ -483,6 +483,8 @@ footer{
         margin: 0;
     }
 
+    .textos_header a{margin-left: 25px;}
+
     /*-------------------SECCIÓN 1------------------------------*/
     .articulo{
         width: 45%;
